@@ -5,5 +5,5 @@
 ---
 
 目前嵌入式使用最多的平台
-- 商用類： Nano
+- 商用類： Jetson Nano
 - 教育類： RPi3-5、RPi Zero-2W
